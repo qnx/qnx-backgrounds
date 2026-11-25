@@ -1,1 +1,1 @@
-# QNX Developer Desktop Backgrounds
+# QNX Backgrounds
